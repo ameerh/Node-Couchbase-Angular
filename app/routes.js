@@ -1,6 +1,7 @@
 module.exports = function(app) {
 	var couchbase = require("couchbase");
 
+
 	// server routes ===========================================================
 	// handle things like api calls
 	// authentication routes
